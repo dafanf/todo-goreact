@@ -1,4 +1,4 @@
-module go-todo-list
+module server
 
 go 1.21.0
 
